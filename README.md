@@ -2,6 +2,7 @@
 This repository is dedicated to showcasing state-of-the-art techniques and implementations of any-to-any generative models, which are capable of generating any modality (audio/speech, image/vision, text) from any modality (audio/speech, image/vision, text) as input.
 
 **Models**
+1. Dynin-Omni: Omnimodal Unified Large Diffusion Language Model [Paper](https://arxiv.org/abs/2604.00007) [Code](https://github.com/AIDASLab/Dynin-Omni) [Project](https://dynin.ai/omni/)
 1. AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling [Paper](https://arxiv.org/abs/2402.12226)
 2. CoDI: Any-to-Any Generation via Composable Diffusion [Paper](https://arxiv.org/abs/2305.11846)
 3. CoDi2: In-Context, Interleaved, and Interactive Any-to-Any Generation [Paper](https://arxiv.org/abs/2311.18775)
